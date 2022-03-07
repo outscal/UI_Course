@@ -25,13 +25,13 @@
 
 ![anchors2.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdfe430c-cba1-4a87-97d1-d20044484681/anchors1.gif)
 
-![anchors3.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7237d635-14eb-42f5-b790-c529506bab71/Untitled.png)
+![anchors3.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32aea89d-8ae8-4bad-83b5-40f8e6992d7e/anchors3.gif)
 
 - **Anchors presets -**
     
     This option can be found in the inspector, it is present in the upper left corner of the Rect transform component. By clicking this button it brings up the anchors presets option, in which there are some pre-defined anchor positions. You can use those anchor positions to set your UI element. You can anchor the element to the center, or to the sides, or you can stretch them along the horizontal, vertical, or in both directions.
     
 
-![anchor presets.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/beb00f4c-765c-45c8-b52e-de583498e72c/snchors_presets.png)
+![anchors presets.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/beb00f4c-765c-45c8-b52e-de583498e72c/snchors_presets.png)
 
 ##
