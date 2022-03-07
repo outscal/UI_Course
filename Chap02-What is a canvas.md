@@ -19,4 +19,4 @@ The Canvas has a **Render Mode** setting which can be used to make it render in
     In this render mode, the Canvas will behave like other objects in the scene. The size of the Canvas can be set manually using its Rect Transform, and UI elements will render in front of or behind other objects in the scene. This is useful for UIs that are meant to be a part of the world.
     
 
-![canvas.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5592545f-fdf2-42fc-9e11-ddc7c4f81ed2/canvas.png)
+![canvas](Images/canvas.png)
