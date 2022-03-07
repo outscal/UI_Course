@@ -31,7 +31,7 @@
      control responds to a click from the user and is used to initiate an action.
     
 
-![button](Images/button.png)
+![button](Images/Button.png)
 
 - **Toggle -**
     
