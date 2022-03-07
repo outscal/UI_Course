@@ -10,4 +10,4 @@ This component is used for controlling the overall scale and pixel density of UI
 - **Match -** Determines if the scaling is using the width or height as a reference, or a mix in between.
 - **Reference Pixels Per Unit -** If a sprite has this 'Pixels Per Unit' setting, then one pixel in the sprite will cover one unit in the UI.
 
-![scalar.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a980eac4-4f6b-4346-ac6a-65e7512528dd/scalar.png)
+![scalar](Images/scalar.png)
