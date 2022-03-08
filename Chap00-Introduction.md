@@ -3,7 +3,7 @@ Hi there!
 This course will help you to understand what a UI is in the unity. You will know how to make a responsive UI for the game for different resolutions.
 
 
-![](https://media.giphy.com/media/xT39Db8zIOODTppk08/giphy-downsized.gif)
+![](https://media.giphy.com/media/c9eb2nWV1AiJ2/giphy.gif)
 
 To check your UI skills, click on the repository below.
 
