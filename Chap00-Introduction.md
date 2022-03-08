@@ -5,7 +5,7 @@ This course will help you to understand what a UI is in the unity. You will know
 
 ![](https://media.giphy.com/media/c9eb2nWV1AiJ2/giphy.gif)
 
-To check your UI skills, click on the repository below.
+Before going through the course, we would like you to go through the Github repository given below. 
 
 [Github Project Repository](https://github.com/outscal/UI_Project)
 
