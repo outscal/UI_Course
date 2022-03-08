@@ -53,6 +53,8 @@
 
 ---
 
+Still Stuck?
+
 Here is the implementation of how to make a responsive UI for different resolutions.
 
 Click Here - [Github Solution repository](https://github.com/outscal/UI_Project/tree/Solution)
