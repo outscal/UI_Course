@@ -1,7 +1,5 @@
 # Showcase To The World
 
-## Wowww
-
 Yayyy, You just learned how to make a responsive UI of your game for different resolutions.
 
 Work in silence and let your success make some noise.. How about having a music party with your clan members on [Discord](https://discord.com/invite/R4hfXhsWjN)?
