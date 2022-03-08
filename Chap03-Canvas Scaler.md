@@ -1,4 +1,4 @@
-## Canvas Scalar
+## Canvas Scaler
 
 This component is used for controlling the overall scale and pixel density of UI elements in the Canvas.
 
