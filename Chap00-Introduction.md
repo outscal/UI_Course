@@ -17,11 +17,9 @@ Let's get started and get you access to your tools.
 
 As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning your points
 
-**Click on the gif below and follow the instructions** ⏬
+**Click on the link below and follow the instructions** ⏬
 
-[![Click me!](https://media.giphy.com/media/iKBAAfYNDu1dowhnEj/giphy.gif)](https://airtable.com/shrY0mnlrnJXaZjps)
-
-You can also click here - [Click Here!](https://airtable.com/shrY0mnlrnJXaZjps)
+Click here - [Click Here!](https://airtable.com/shrY0mnlrnJXaZjps)
 
 All clear? Let's Continue
 
