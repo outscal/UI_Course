@@ -22,4 +22,10 @@ You can also click here - [Click Here!](https://academy.outscal.com/welcome/buil
 
 Now you can go and try to make an awesome and responsive UI for your game.
 
-All the Best!!
+Use the UI you created and add more scenes to your game here - [Unity Scene Management](https://academy.outscal.com/unity-scene-management/)
+
+We have an active community to help you out as well. Join us here - [Discord](https://discord.com/invite/R4hfXhsWjN)
+
+Till we meet again!
+
+![](https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif)
